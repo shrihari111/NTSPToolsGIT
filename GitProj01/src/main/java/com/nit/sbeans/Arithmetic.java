@@ -1,5 +1,7 @@
 package com.nit.sbeans;
 
-public class Arithmetic {
+// b method
+public class Arithmetic 
+{
 
 }
