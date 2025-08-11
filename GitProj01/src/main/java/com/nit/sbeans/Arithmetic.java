@@ -4,4 +4,9 @@ package com.nit.sbeans;
 public class Arithmetic 
 {
 
+	public double add(double x, double y)
+	{
+		return x+y;
+	}
+	
 }
